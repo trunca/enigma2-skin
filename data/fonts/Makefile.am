@@ -19,4 +19,5 @@ dist_install_DATA = \
 	MyriadPro-Semibold.otf \
 	MyriadPro-SemiboldIt.otf \
 	Roboto-Regular.ttf \
-	tiny.ttf
+	tiny.ttf \
+	verdana.ttf

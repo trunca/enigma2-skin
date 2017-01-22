@@ -1,4 +1,4 @@
-SUBDIRS = box buttons egami epg extensions fonts icons menu modules skin_default spinner
+SUBDIRS = box buttons egami epg extensions icons menu modules spinner
 
 installdir = $(pkgdatadir)/skin_default
 
