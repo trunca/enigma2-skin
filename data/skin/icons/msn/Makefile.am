@@ -1,3 +1,3 @@
-installdir = $(pkgdatadir)/skin/iconos/msn
+installdir = $(pkgdatadir)/skin/icons/msn
 
 install_PYTHON = *.png
