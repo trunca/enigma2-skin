@@ -221,6 +221,7 @@ data/skin/extensions/Makefile
 data/skin/box/Makefile
 data/skin/egami/Makefile
 data/skin/epg/Makefile
+data/skin/icons/msn/Makefile
 data/skin/icons/Makefile
 data/skin/buttons/Makefile
 data/skin/menu/Makefile
