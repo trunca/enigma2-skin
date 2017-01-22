@@ -1,3 +1,3 @@
 installdir = $(pkgdatadir)/skin/menu
 
-install_PYTHON = *.png
+install_PNG = *.png
