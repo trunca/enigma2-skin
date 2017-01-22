@@ -219,6 +219,7 @@ data/rc_models/Makefile
 data/skin/Makefile
 data/skin/box/Makefile
 data/skin/egami/Makefile
+data/skin/epg/Makefile
 data/skin_default/Makefile
 data/skin_default/icons/Makefile
 data/skin_default/buttons/Makefile
