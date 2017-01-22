@@ -1,4 +1,4 @@
-installdir = $(pkgdatadir)/skin_default/buttons
+installdir = $(pkgdatadir)/skin/buttons
 
 dist_install_DATA = \
                     angle30.png \
