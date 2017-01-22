@@ -51,7 +51,7 @@ dist_install_DATA = \
                     vkey_icon.png \
                     vkey_left.png \
                     vkey_ok.png \
-                    vkey_reight.png \
+                    vkey_right.png \
                     vkey_sel.png \
                     vkey_shift.png \
                     vkey_shift_sel.png \
