@@ -18,7 +18,7 @@ dist_install_DATA = \
                      dtt.png \
                      emupic.png \
                      epgclock.png \
-                     epgclok_add.png \
+                     epgclock_add.png \
                      epgclok_autotimer.png \
                      epgclok_post.png \
                      epgclok_pre.png \
