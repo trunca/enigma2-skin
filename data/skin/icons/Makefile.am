@@ -1,5 +1,6 @@
 installdir = $(pkgdatadir)/skin/icons
-SUBDIRS = msn
+
+
 dist_install_DATA = \
                      1.png \
                      agreen.png \
