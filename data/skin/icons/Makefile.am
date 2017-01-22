@@ -17,7 +17,7 @@ dist_install_DATA = \
                      dish_scan.png \
                      dtt.png \
                      emupic.png \
-                     epgclok.png \
+                     epgclock.png \
                      epgclok_add.png \
                      epgclok_autotimer.png \
                      epgclok_post.png \
