@@ -2,7 +2,7 @@ installdir = $(pkgdatadir)/skin/menu
 
 dist_install_DATA = \
                     3d.png \
-                    animation_setup \
+                    animation_setup.png \
                     audio.png \
                     av_setup.png \
                     backup.png \
