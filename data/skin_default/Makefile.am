@@ -23,7 +23,7 @@ dist_install_DATA = \
 	progress_medium.png \
 	progress_small.png \
 	starsbar_empty.png \
-	starbar_filled.png \
+	starsbar_filled.png \
 	timeline-now.png \
 	timeline.png \
 	tv_b_bar.png \
