@@ -1,3 +1,7 @@
 installdir = $(pkgdatadir)/skin/icons/msn
 
-install_PYTHON = *.png
+dist_install_DATA = \
+                      msnback.png \
+                     temp_high_low.png \
+                     umbrella.png \
+                     wind.png
