@@ -43,4 +43,4 @@ dist_install_DATA = \
 	vkey_space.png \
 	vkey_text.png \
 	volbar.png \
-	volbng.png
+	volbg.png
