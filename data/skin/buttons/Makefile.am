@@ -5,7 +5,7 @@ dist_install_DATA = \
                     bar_agc.png \
                     bar_agc_big.png \
                     bar_snr.png \
-                    bar_snr_bing.png \
+                    bar_snr_big.png \
                     barlogo.png \
                     barlogofull.png \
                     bclose.png \
