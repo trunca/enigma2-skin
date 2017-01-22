@@ -1,4 +1,4 @@
-installdir = $(pkgdatadir)/skin_default/icons
+installdir = $(pkgdatadir)/skin/icons
 SUBDIRS = msn
 dist_install_DATA = \
                      1.png \
