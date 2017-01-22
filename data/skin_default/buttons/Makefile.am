@@ -61,4 +61,4 @@ dist_install_DATA = \
 	vkey_shift.png \
 	vkey_shift_sel.png \
 	vkey_space.png \
-	yellowpanel
+	yellowpanel.png
