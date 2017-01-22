@@ -20,7 +20,7 @@ dist_install_DATA = \
                     slider.png \
                     slider72.png \
                     sliderb.png \
-                    sliderb72.png \
+                    sliderb72.png 
                     
                     
                     
