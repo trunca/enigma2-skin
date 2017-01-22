@@ -217,6 +217,7 @@ data/keymaps/Makefile
 data/hw_info/Makefile
 data/rc_models/Makefile
 data/skin/Makefile
+data/skin/box/Makefile
 data/skin_default/Makefile
 data/skin_default/icons/Makefile
 data/skin_default/buttons/Makefile
