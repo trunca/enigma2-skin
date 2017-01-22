@@ -19,15 +19,15 @@ dist_install_DATA = \
                      emupic.png \
                      epgclock.png \
                      epgclock_add.png \
-                     epgclok_autotimer.png \
-                     epgclok_post.png \
-                     epgclok_pre.png \
-                     epgclok_prepost.png \
-                     epgclok_selpost.png \
-                     epgclok_selpre.png \
-                     epgclok_selprepost.png \
-                     epgclok_zap.png \
-                     epgclok_zaprec.png \
+                     epgclock_autotimer.png \
+                     epgclock_post.png \
+                     epgclock_pre.png \
+                     epgclock_prepost.png \
+                     epgclock_selpost.png \
+                     epgclock_selpre.png \
+                     epgclock_selprepost.png \
+                     epgclock_zap.png \
+                     epgclock_zaprec.png \
                      expandable.png \
                      expandable-plugins.png \
                      expanded.png \
