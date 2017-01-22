@@ -1,4 +1,4 @@
-installdir = $(pkgdatadir)/skin_default/box
+installdir = $(pkgdatadir)/skin/box
 
 dist_install_DATA = \
                     b_b.png \
