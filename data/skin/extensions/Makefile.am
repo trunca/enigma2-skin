@@ -1,4 +1,4 @@
-installdir = $(pkgdatadir)/skin_default/extensions
+installdir = $(pkgdatadir)/skin/extensions
 
 dist_install_DATA = \
                     directory.png \
