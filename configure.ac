@@ -225,6 +225,7 @@ data/skin/icons/msn/Makefile
 data/skin/icons/Makefile
 data/skin/buttons/Makefile
 data/skin/menu/Makefile
+data/skin/modules/Makefile
 data/skin_default/Makefile
 data/skin_default/icons/Makefile
 data/skin_default/buttons/Makefile
