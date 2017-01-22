@@ -17,9 +17,9 @@ dist_install_DATA = \
 	input_keyboard.png \
 	input_mouse-configured.png \
 	input_mouse.png \
-	input_rc0-configure.png \
+	input_rc0-configured.png \
 	input_rc0.png \
-	input_rc1-configure.png \
+	input_rc1-configured.png \
 	input_rc1.png \
 	input_rc2.png \
 	input_rc2.png \
