@@ -1,4 +1,4 @@
-installdir = $(pkgdatadir)/skin_default/iconos/msn
+installdir = $(pkgdatadir)/skin/iconos/msn
 
 dist_install_DATA = \
                     msn.png \
