@@ -1,4 +1,4 @@
-installdir = $(pkgdatadir)/skin_default/modules
+installdir = $(pkgdatadir)/skin/modules
 
 dist_install_DATA = \
                      skin_plugins.xml \
