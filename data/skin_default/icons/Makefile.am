@@ -22,7 +22,7 @@ dist_install_DATA = \
 	input_rc1-configured.png \
 	input_rc1.png \
 	input_rc2.png \
-	input_rc2.png \
+	input_rc2-configured.png
 	lock.png \
 	lock_error.png \
 	lock_off.png \
