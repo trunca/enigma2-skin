@@ -1,6 +1,6 @@
 SUBDIRS = box buttons egami epg extensions icons menu modules
 
-installdir = $(pkgdatadir)/skin_default
+installdir = $(pkgdatadir)/skin
 
 dist_install_DATA = \
                      lcd_picon_default.png \
