@@ -1,4 +1,4 @@
-installdir = $(pkgdatadir)/skin_default/buttons
+installdir = $(pkgdatadir)/skin/epg
 
 dist_install_DATA = \
                     BorderBottom.png \
