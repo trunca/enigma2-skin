@@ -12,5 +12,5 @@ dist_install_DATA = \
 	xpeedlx.xml et7000mini.png et7000mini.xml \
 	gbx1.png gbultraue.png gbultrase.png gbquadplus.png gbquad.png gb800ue.png gb800ueplus.png \
 	gb800seplus.png spycat.png \
-	formuler3.xml gbx1.xml gbultraue.xml gbultrase.xml gbquad.xml gbquadplus.xml gb800ue.xml gb800ueplus.xml \
+	gbx1.xml gbultraue.xml gbultrase.xml gbquad.xml gbquadplus.xml gb800ue.xml gb800ueplus.xml \
 	gb800seplus.xml
