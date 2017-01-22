@@ -4,7 +4,7 @@ installdir = $(pkgdatadir)/skin
 
 dist_install_DATA = \
                      lcd_picon_default.png \
-		     noprev \
+		     noprev.png \
 		     picon_default.png \
 		     prev.png \
 		     skin.xml \
