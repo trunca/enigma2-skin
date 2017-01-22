@@ -16,7 +16,7 @@ dist_install_DATA = \
                     maxbarmp.png \
                     progress_big.png \
                     progress_infobar.png \
-                    progress_smail.png \
+                    progress_small.png \
                     slider.png \
                     slider72.png \
                     sliderb.png \
