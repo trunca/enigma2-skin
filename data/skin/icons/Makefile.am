@@ -29,7 +29,7 @@ dist_install_DATA = \
                      epgclock_zap.png \
                      epgclock_zaprec.png \
                      expandable.png \
-                     expandable-plugins.png \
+                     expanded-plugins.png \
                      expanded.png \
                      expanded-plugins \
                      faz.png \
