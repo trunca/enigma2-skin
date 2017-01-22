@@ -217,6 +217,7 @@ data/keymaps/Makefile
 data/hw_info/Makefile
 data/rc_models/Makefile
 data/skin/Makefile
+data/skin/extensions/Makefile
 data/skin/box/Makefile
 data/skin/egami/Makefile
 data/skin/epg/Makefile
