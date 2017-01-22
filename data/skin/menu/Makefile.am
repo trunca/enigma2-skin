@@ -1,4 +1,4 @@
-installdir = $(pkgdatadir)/skin_default/menu
+installdir = $(pkgdatadir)/skin/menu
 
 dist_install_DATA = \
                     3d.png \
