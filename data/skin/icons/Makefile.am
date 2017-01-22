@@ -47,7 +47,7 @@ dist_install_DATA = \
                      ico_crypt_on_bar.png \
                      ico_dolby_off.png \
                      ico_dolby_on.png \
-                     ico_dvb_c-fs8.png 
+                     ico_dvb_c-fs8.png \
                      ico_dvb_s-fs8.png \
                      ico_dvb_t-fs8.png \
                      ico_folder.png \
