@@ -66,8 +66,8 @@ dist_install_DATA = \
                      ico_txt_off.png \
                      ico_txt_on.png \
                      ico_wifi_on.png \
-                     ico_event.png \
-                     ico_event_rec.png \
+                     icon_event.png \
+                     icon_event_rec.png \
                      inet.png \
                      info.png \
                      info_on.png \
