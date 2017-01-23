@@ -116,7 +116,7 @@ dist_install_DATA = \
                      pointer.png \
                      quit.png \
                      rass_logo.png \
-                     rass_page1 \
+                     rass_page1.png \
                      rass_page2.png \
                      rass_page3.png \
                      rass_page4.png \
