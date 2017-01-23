@@ -6,6 +6,7 @@
 	#      mmark            Version 1.1.0 released           30-09-2016     #
 	#      mmark            Version 1.0.0 released           30-07-2016     #
 	#                                                                       #
+        #      sfteam           modificaciones                   23-07-2017     #
 	#########################################################################
 	-->
 	<!-- openDreamy v1.0 skin, based on Dreamy by mmark (E2skin.blogspot.com) -->
@@ -3766,14 +3767,14 @@
 			<convert type="EventTime">EndTime</convert>
 			<convert type="ClockToText"></convert>
 		</widget>
-		<widget source="Event" render="Progress" position="1275,300" pixmap="oDreamy-FHD/skin_default/progress_medium.png" size="580,5" borderWidth="1" borderColor="#202020" zPosition="1" >
+		<widget source="Event" render="Progress" position="1275,300" pixmap="skin/skin_default/progress_medium.png" size="580,5" borderWidth="1" borderColor="#202020" zPosition="1" >
 			<convert type="EventTime">Progress</convert>
 		</widget>
 		<!-- FullDescription  Interlinea 23 size 450 -->
 		<widget source="Event" render="Label" position="1270,420" size="590,420" font="Regular;32" foregroundColor="#a0a0a0" backgroundColor="bluette" valign="top" halign="center" noWrap="1" transparent="1" zPosition="1" >
 			<convert type="EventName">FullDescription</convert>
 		</widget>
-		<ePixmap position="1270,38" size="200,90" pixmap="oDreamy-FHD/icons/logosmall.png" alphatest="blend" zPosition="2" />
+		<ePixmap position="1270,38" size="200,90" pixmap="skin/icons/logosmall.png" alphatest="blend" zPosition="2" />
 	</screen>
 	
 	<screen name="QuickEPG" title="InfoBar QuickEPG" position="0,490" size="1280,230" backgroundColor="transparent" flags="wfNoBorder">
