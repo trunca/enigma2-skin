@@ -31,7 +31,6 @@ dist_install_DATA = \
                      expandable.png \
                      expanded-plugins.png \
                      expanded.png \
-                     expanded-plugins \
                      faz.png \
                      film.png \
                      flash.png \
