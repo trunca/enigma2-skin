@@ -98,7 +98,7 @@ dist_install_DATA = \
                      mp_wb_buttons.png \
                      mute.png \
                      net_off.png \
-                     net_on \
+                     net_on.png \
                      newtop.png \
                      nocover.png \
                      oldtop.png \
