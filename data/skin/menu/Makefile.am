@@ -31,8 +31,8 @@ dist_install_DATA = \
                     ico_ftp.png \
                     ico_hdmi.png \
                     ico_inadyn.png \
-                    icon_iptv.png \
-                    icon_listch.png \
+                    ico_iptv.png \
+                    ico_listch.png \
                     ico_log.png \
                     ico_master.png \
                     ico_script.png \
