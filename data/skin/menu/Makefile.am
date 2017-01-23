@@ -69,7 +69,6 @@ dist_install_DATA = \
                     temp.png \
                     timer_edit.png \
                     trbigsat.png \
-                    trbigsat.png \
                     usage_setup.png \
                     utility.png \
                     web_browser.png \
