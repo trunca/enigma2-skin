@@ -5,7 +5,7 @@
 	#                      Panels of Various Teams  			#
         #   ATEMIO4Y - EGAMI - ITALYSAT - openATV - openPLI openMIPS - openVIX  #
 	#                                                                       #
-	#       openDROID - openNFR - openHDF - openVIX - openESI - openLD      #       
+	#   openDROID - openNFR - openHDF - openVIX - openESI - openLD  SFTeam  #       
 	#                                                                       #
 	#########################################################################
 	-->
@@ -4783,8 +4783,8 @@
 		<ePixmap                 position="765,275" size="200,40"  pixmap="/usr/lib/enigma2/python/Plugins/Extensions/LDteam/images/menu/bp_deko.png" alphatest="blend" zPosition="3" />
 		<eLabel position="70,330" size="820,2" backgroundColor="#202020" zPosition="0" />
 		<!-- Crypt icon (encrypted service?) -->
-		<ePixmap pixmap="oDreamy-FHD/icons/ico_crypt_off.png" position="70,360" size="100,50" zPosition="1" alphatest="blend" />
-		<widget source="session.CurrentService" render="Pixmap" pixmap="oDreamy-FHD/icons/ico_crypt_on.png" position="70,360" size="100,50" zPosition="2" alphatest="blend">
+		<ePixmap pixmap="skin/icons/ico_crypt_off.png" position="70,360" size="100,50" zPosition="1" alphatest="blend" />
+		<widget source="session.CurrentService" render="Pixmap" pixmap="skin/icons/ico_crypt_on.png" position="70,360" size="100,50" zPosition="2" alphatest="blend">
 			<convert type="ServiceInfo">IsCrypted</convert>
 			<convert type="ConditionalShowHide" />
 		</widget>
@@ -5027,7 +5027,7 @@
 		<panel name="MI" />
 		<ePixmap pixmap="/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/skins/default/images/openrsi_logo.png" position="1400,50" zPosition="1" size="350,79" transparent="1" alphatest="on" />
 		<widget name="filelist" position="70,180" size="1160,720" font="Regular;28" itemHeight="40" scrollbarMode="showOnDemand" enableWrapAround="1" transparent="1" zPosition="2" />
-		<widget name="coverArt" position="1320,200" size="500,500" pixmap="/usr/share/enigma2/oDreamy-FHD/menu/media_player.png" transparent="1" alphatest="blend" scale="1" zPosition="5" />
+		<widget name="coverArt" position="1320,200" size="500,500" pixmap="/usr/share/enigma2/skin/menu/media_player.png" transparent="1" alphatest="blend" scale="1" zPosition="5" />
 		<widget name="curplayingtitle" position="1260,825" size="600,100" font="Regular;30" halign="center" foregroundColor="ltbluette" backgroundColor="#000000" zPosition="2" transparent="1" />
 		<widget source="session.CurrentService" render="Label" position="1270,908" size="150,40" zPosition="3" font="Regular;28" transparent="1">
 			<convert type="ServicePosition">Position,ShowHours</convert>
@@ -5048,7 +5048,7 @@
 		<panel name="nRGYB" />
 		<ePixmap pixmap="/usr/lib/enigma2/python/Plugins/Extensions/MediaCenter/skins/default/images/openrsi_logo.png" position="1400,50" zPosition="1" size="350,79" transparent="1" alphatest="on" />
 		<widget name="filelist" position="70,180" size="1160,720" font="Regular;28" itemHeight="40" scrollbarMode="showOnDemand" enableWrapAround="1" transparent="1" zPosition="2" />
-		<widget name="coverArt" position="1320,200" size="500,500" pixmap="/usr/share/enigma2/oDreamy-FHD/menu/media_player.png" transparent="1" alphatest="blend" scale="1" zPosition="5" />
+		<widget name="coverArt" position="1320,200" size="500,500" pixmap="/usr/share/enigma2/skin/menu/media_player.png" transparent="1" alphatest="blend" scale="1" zPosition="5" />
 		<widget name="curplayingtitle" position="1260,825" size="600,100" font="Regular;30" halign="center" foregroundColor="ltbluette" backgroundColor="#000000" zPosition="2" transparent="1" />
 		<widget source="session.CurrentService" render="Label" position="1270,908" size="150,40" zPosition="3" font="Regular;28" transparent="1">
 			<convert type="ServicePosition">Position,ShowHours</convert>
