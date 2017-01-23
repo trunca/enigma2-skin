@@ -92,7 +92,7 @@ dist_install_DATA = \
                      menu.png \
                      miniinfo.png \
                      movie_play.png \
-                     movi_play_rec.png \
+                     movie_play_rec.png \
                      movielist.png \
                      mp_buttons.png \
                      mp_wb_buttons.png \
