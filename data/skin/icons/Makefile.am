@@ -71,7 +71,7 @@ dist_install_DATA = \
                      inet.png \
                      info.png \
                      info_on.png \
-                     input_error \
+                     input_error.png \
                      input_info.png \
                      input_question.png \
                      itimer.png \
