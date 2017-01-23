@@ -63,7 +63,7 @@ dist_install_DATA = \
                     script.png \
                     setup_selection.png \
                     standby_restart_list.png \
-                    starboot.png \
+                    startboot.png \
                     swapp.png \
                     teamlogo.png \
                     temp.png \
