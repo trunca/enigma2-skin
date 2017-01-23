@@ -122,7 +122,7 @@ dist_install_DATA = \
                      rass_page4.png \
                      record.png \
                      rep.png \
-                     repeat_off \
+                     repeat_off.png \
                      repeat_on.png \
                      sat.png \
                      scan-c.png \
