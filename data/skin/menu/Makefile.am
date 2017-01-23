@@ -19,7 +19,7 @@ dist_install_DATA = \
                     dmmmedia.png \
                     dreamybk.png \
                     dvd_player.png \
-                    epg_impoprt.png \
+                    epg_import.png \
                     faqlist.png \
                     folders.png \
                     hbbtv.png \
