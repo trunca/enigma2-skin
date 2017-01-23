@@ -27,8 +27,8 @@ dist_install_DATA = \
                     ico_cd.png \
                     ico_ci.png \
                     ico_dyn.png \
-                    icon_fan.png \
-                    icon_ftp.png \çico_hdmi.png \
+                    ico_fan.png \
+                    ico_ftp.png \çico_hdmi.png \
                     ico_inadyn.png \
                     icon_iptv.png \
                     icon_listch.png \
@@ -37,8 +37,8 @@ dist_install_DATA = \
                     ico_script.png \
                     ico_storage.png \
                     ico_team.png \
-                    icon_user.png\
-                    icon_weather.png \
+                    ico_user.png\
+                    ico_weather.png \
                     ico_webradio.png \
                     imdb.png \
                     info_screen.png \
