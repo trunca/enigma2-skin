@@ -127,7 +127,7 @@ dist_install_DATA = \
                      sat.png \
                      scan-c.png \
                      scan-s.png \
-                     scan_t.png \
+                     scan-t.png \
                      select.png \
                      selectioncross.png \
                      shuffle.png \
