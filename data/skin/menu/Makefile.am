@@ -18,7 +18,7 @@ dist_install_DATA = \
                     dlna.png \
                     dmmmedia.png \
                     dreamybk.png \
-                    dvb_player.png \
+                    dvd_player.png \
                     epg_impoprt.png \
                     faqlist.png \
                     folders.png \
