@@ -106,7 +106,7 @@ dist_install_DATA = \
                      part_1_4.png \
                      part_2_4.png \
                      part_3_4.png \
-                     part_4.4.png \
+                     part_4_4.png \
                      part_unwatched.png \
                      pause.png \
                      play.png \
