@@ -41,7 +41,7 @@ dist_install_DATA = \
                      hdd.png \
                      hdmic.png \
                      help.png \
-                     ico_cryt_off_bar.png \
+                     ico_crypt_off_bar.png \
                      icon_crypt_on.png \
                      ico_crypt_on_bar.png \
                      ico_dolby_off.png \
