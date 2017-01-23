@@ -28,7 +28,8 @@ dist_install_DATA = \
                     ico_ci.png \
                     ico_dyn.png \
                     ico_fan.png \
-                    ico_ftp.png \çico_hdmi.png \
+                    ico_ftp.png \
+                    ico_hdmi.png \
                     ico_inadyn.png \
                     icon_iptv.png \
                     icon_listch.png \
