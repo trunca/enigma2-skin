@@ -155,7 +155,7 @@ dist_install_DATA = \
                      unhandled-key-night.png \
                      unlock.png \
                      unlockBouquet.png \
-                     verticaline.png \
+                     verticalline.png \
                      verticalline-plugins.png \
                      wind.png \
                      za.png 
